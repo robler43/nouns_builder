@@ -4,6 +4,7 @@ A modern, playful redesign of Nouns Builder that makes DAO governance fun, acces
 
 Live-Demo: https://www.loom.com/share/af2379fa9ef642ce9ce1d29f0a5dcfab
 Slideshow: https://docs.google.com/presentation/d/1sdE5bFve38uYc8mzX74zyfJuJSdHNY5BhuUm5FvaLXc/edit?usp=sharing
+Deployed Public URL: https://nounsbuilder.vercel.app/
 
 ## 🎯 Overview
 
